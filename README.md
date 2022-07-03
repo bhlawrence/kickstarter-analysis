@@ -25,15 +25,19 @@ The lower half of this chart should give some idea for trends, though. Generally
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 Conclusion 1 - Summer is the best time to launch a kickstarter campaign in this category. 
 
 Conclusion 2 - October sees the highest portion of failures, and is likely to be one of the worst months to launch a campaign.
 
 - What can you conclude about the Outcomes based on Goals?
+
 The lower your campaigns fundraising goal is, the more likely you are to hit that goal. 
 
 - What are some limitations of this dataset?
+
 There is very little data on campaigns with high fundraising goals, meaning data pulled from those higher-goal groups is not reliable or indicative of a larger trend. 
 
 - What are some other possible tables and/or graphs that we could create?
+
 We could expand the charts we've already created to include a wider group, or even all kickstarter campaigns. Expanding out to include other Categories and Sub Categories would likely help to alleviate the sparse data we had for campaigns with high fundraising goals. 
